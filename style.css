@@ -1,0 +1,46 @@
+.generate{
+    background-color:#ABB2B9;
+    padding:10px;
+
+}
+.slack{
+    background-color:#797D7F;
+    padding: 10px;
+}
+
+.email{
+    background-color: #85929E;  
+     padding: 10px;
+
+}
+
+.topbar{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-around
+    
+}
+.teams{
+    display:block;
+    justify-content: space-between;
+}
+
+.Einstein{
+    background-color:#A9CCE3;
+    padding-bottom: 40px;
+    margin: 15px;
+}
+
+.Newton{
+    background-color:#7FB3D5;       
+    padding-bottom: 40px;
+    margin: 15px;
+
+}
+
+.Tesla{
+    background-color:#5499C7;
+    padding-bottom: 40px;
+    margin: 15px;
+
+}
